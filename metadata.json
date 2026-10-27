@@ -1,0 +1,6 @@
+{
+  "name": "Campus Canteen",
+  "description": "A modern campus food ordering web app to browse menus, customize cart orders, and enjoy fast student dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
